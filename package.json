@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "html-builder",
   "version": "1.0.0",
   "description": "html-builder task for RSSchool",
